@@ -1,11 +1,20 @@
-<form>
-    <h1>Nova transferência</h1>
+<section class="container">
+<form class="formulario">
+    <h2 class="formulario__titulo">Nova transferência</h2>
 
-        <label for="value">Valor</label>
-        <input id="value" type="number">
+      <div class="form-field">
+      <label class="form-field__label" for="value">Valor</label>
+      <input class="form-field__input" id="value" type="number">
+      </div>
 
-      <label for="data">Data</label>
-      <input id="data" type="date">
- 
-  <button>Transferência</button>
+      <div class="form-field">
+      <label class="form-field__label" for="data">Destino</label>
+      <input class="form-field__input"  id="data" type="text">
+      </div>
+
+      <div class="botao-wrapper">
+      <button class="botao">Transferência</button>
+      </div>
+
 </form>
+</section>
