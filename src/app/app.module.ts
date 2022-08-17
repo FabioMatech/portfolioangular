@@ -5,6 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { NovaTransferenciaComponent } from './nova-transferencia/nova-transferencia.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 
@@ -12,7 +13,8 @@ import { NovaTransferenciaComponent } from './nova-transferencia/nova-transferen
   declarations: [
     AppComponent,
     NovaTransferenciaComponent,
-    HeaderComponent
+    HeaderComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
