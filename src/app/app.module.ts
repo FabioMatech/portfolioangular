@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { NovaTransferenciaComponent } from './nova-transferencia/nova-transferencia.component';
 import { FooterComponent } from './footer/footer.component';
+import { ExtratoComponent } from './extrato/extrato.component';
 
 
 
@@ -14,7 +15,9 @@ import { FooterComponent } from './footer/footer.component';
     AppComponent,
     NovaTransferenciaComponent,
     HeaderComponent,
+    ExtratoComponent,
     FooterComponent
+
   ],
   imports: [
     BrowserModule,
