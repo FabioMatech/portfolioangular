@@ -1,1 +1,1 @@
-# Projeto baseado nos estudos de angular.
+# Voltaremos de volta neste trabalho em breve.
