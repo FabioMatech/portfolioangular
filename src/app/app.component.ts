@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'portfolioangular';
   valor: any;
   destino: any;
-  transferencias: any[];
+  transferencias: any[] = [];
 
     transferir($event){
     console.log($event);
