@@ -9,6 +9,9 @@
 ## Curso
 Angular: Explorando o framework
 
+## Plataforma do curso
+Alura
+
 
 
 
