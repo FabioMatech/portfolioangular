@@ -2,3 +2,7 @@
 
 
 ## Tecnologias envolvidas;
+- HTML
+- CSS (SCSS)
+- javascript
+
