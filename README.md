@@ -20,7 +20,6 @@ Alura
 - Transformar os componentes em página;
 
 
-Linkedin: 
 
 
 
