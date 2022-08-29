@@ -20,9 +20,3 @@ Alura
 - Integrar dados com API REST
 - Transformar os componentes em página;
 
-# Dificuldades
-
-- Durante o projeto foi trocado no nome do repositório remoto.
-
-
-
