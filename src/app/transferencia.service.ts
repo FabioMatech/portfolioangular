@@ -1,12 +1,12 @@
 import { Injectable } from '@angular/core';
-
+import { HttpClient} from '@angular/common/http'
 @Injectable({
   providedIn: 'root'
 })
 export class TransferenciaService {
   private listatransferencia: any[];
 
-constructor() {
+constructor(private JttpClient: HttpClient) {
   this.listatransferencia = [];
 }
 
