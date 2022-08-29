@@ -36,6 +36,6 @@ registerLocaleData(localPt, 'pt')
 })
 export class AppModule { }
 function localPT(localPT: any, arg1: string) {
-  throw new Error('Function not implemented.');
+  throw new Error('Função não implementada.');
 }
 

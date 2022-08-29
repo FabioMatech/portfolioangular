@@ -16,6 +16,6 @@ export class ExtratoComponent implements OnInit {
 
 }
 function input() {
-  throw new Error('Function not implemented.');
+  throw new Error('Função não implementada.');
 }
 
