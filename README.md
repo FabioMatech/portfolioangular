@@ -19,5 +19,3 @@ Alura
 - Entender como transmitir informação entre componentes.
 - Integrar dados com API REST
 - Transformar os componentes em página;
-
-
