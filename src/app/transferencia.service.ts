@@ -1,11 +1,13 @@
 import { Injectable } from '@angular/core';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root'
+})
 export class TransferenciaService {
   private listatransferencia: any[];
 
 constructor() {
-  this.listatransferencia = []
+  this.listatransferencia = [];
 }
 
   get transferencias(){
