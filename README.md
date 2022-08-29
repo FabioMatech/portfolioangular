@@ -13,13 +13,16 @@ Angular: Explorando o framework
 Alura
 
 ## Habilidades desenvolvidas
+
 - Utilização dos recursos do framework para acelerar o desenvolvimento.
 - Aprender criar componentes no Angular.
 - Entender como transmitir informação entre componentes.
 - Integrar dados com API REST
 - Transformar os componentes em página;
 
+# Dificuldades
 
+- Durante o projeto foi trocado no nome do repositório remoto.
 
 
 
