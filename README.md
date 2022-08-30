@@ -17,17 +17,10 @@ Alura
 
 ## Habilidades desenvolvidas
 
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 
 - Utilização dos recursos do framework para acelerar o desenvolvimento.
 - Aprender criar componentes no Angular.
 - Entender como transmitir informação entre componentes.
 - Integrar dados com API REST
 - Transformar os componentes em página;
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
