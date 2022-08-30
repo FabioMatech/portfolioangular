@@ -1,7 +1,7 @@
 import { TransferenciaService } from './../transferencia.service';
 import { Component, Output, EventEmitter } from "@angular/core";
 import { Transferencia } from '../models/transferencia.models';
-import { ConsoleReporter } from 'jasmine';
+
 
 @Component({
     selector:'app-nova-transferencia',
