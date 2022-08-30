@@ -22,9 +22,9 @@ constructor(private httpClient: HttpClient) {
     return this.httpClient.get<Transferencia[]>(this.url);
   }
 
-  adicionar(transferencia: any){
+  adicionar(transferencia: Transferencia){
     this.hidratar(transferencia)
-    this.listatransferencia.push(transferencia);
+    this.httpClient.post(this.url, transferencia)
   }
 
   private hidratar(transferencia: any){
