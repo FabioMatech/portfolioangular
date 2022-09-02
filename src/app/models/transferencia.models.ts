@@ -2,5 +2,5 @@
       id?: number;
       valor: number;
       destino: string | number ;
-      data?: string | Date;
+      data?: Date;
   }
