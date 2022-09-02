@@ -24,13 +24,13 @@ export class NovaTransferenciaComponent{
     const valorEmitir: Transferencia = {valor: this.valor, destino: this.destino};
     this.service.adicionar(valorEmitir).subscribe(resultado =>  {
       console.log(resultado);
-      this.limparCampos();
+      //this.limparCampos();
     },
     error =>  console.error(error));
   }
 
-  limparCampos(){
-    this.valor = 0;
-    this.destino = 0;
-  }
+ // limparCampos(){
+ //   this.valor = 0;
+ //   this.destino = 0;
+ // }
 }
