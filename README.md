@@ -23,7 +23,3 @@ Alura
 - Integrar dados com API REST
 - Transformar os componentes em página;
 
-## Estudo adicionais
-
-Estudo dos comamdos git checkout.
-

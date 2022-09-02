@@ -8,8 +8,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'portfolioangular';
+  transferencias: any[] = [];
 
-  constructor(private service: TransferenciaService){  }
+  constructor(private service: TransferenciaService){
+
+  }
 
   
 }
