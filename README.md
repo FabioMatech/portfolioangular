@@ -24,9 +24,4 @@ Alura
 - Transformar os componentes em página;
 
 ## Estudo adicionais
-
-Estudo dos comamdos git.
-
--log.
-
-- checkout.
+Estudo dos comamdos git checkout.
