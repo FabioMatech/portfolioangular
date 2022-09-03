@@ -21,4 +21,4 @@ Alura
 - Aprender criar componentes no Angular.
 - Entender como transmitir informação entre componentes.
 - Integrar dados com API REST
-- Transformar os componentes em página;
+- Transformar os componentes em página
